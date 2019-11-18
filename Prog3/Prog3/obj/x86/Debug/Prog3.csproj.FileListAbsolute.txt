@@ -1,0 +1,9 @@
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog2.RegForm.resources
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\Julio\Desktop\CIS 199\Programs\Prog3-START\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
